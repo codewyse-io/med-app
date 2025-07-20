@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: "Roboto'";
+  background-color: #ffffffab;
+    /* background-color: #16acd2; */
+
+}
+
+
+code {
+  font-family: "Roboto'";
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+input:-webkit-autofill {
+  box-shadow: 0 0 0px 1000px transparent inset !important;
+  -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+  -webkit-text-fill-color: inherit !important;
+  transition: background-color 9999s ease-in-out 0s !important;
+}
